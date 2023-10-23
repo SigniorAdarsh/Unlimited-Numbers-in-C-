@@ -2,6 +2,7 @@
 Course Project (COL106) under Prof. Rahul Garg [September 2023] : Enhanced C/C++ to handle large integers and rationals like Python, using string-based dynamic arrays for seamless arithmetic operations, bolstering numerical computing capabilities.
 # UnlimitedInt
 The UnlimitedInt class is a custom integer data type designed to handle integers of arbitrary size without any limitations on their magnitude. Unlike standard integer types in programming languages, such as int or long, which have fixed ranges, UnlimitedInt can represent extremely large or precise integer values. This class is a fundamental building block for working with integers in situations where traditional integer types fall short due to their size limitations.
+
 Class Description :
 The UnlimitedInt class has the following attributes and methods:
 • size: An integer that represents the size of the UnlimitedInt object.
